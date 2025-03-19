@@ -65,14 +65,14 @@ params:
           #imageHeight: 160
           #imageTitle: Bryzen Enzo Morales
           buttons:
-             - name: Current Projects
+             - name: Projects
                url: projects/
-             - name: Publications
-               url: publications/
-             - name: Briefs
-               url: briefs/
-             - name: Others
-               url: somestuff/
+            # - name: Publications
+            #   url: publications/
+            # - name: Briefs
+            #   url: briefs/
+            # - name: Others
+            #   url: somestuff/
             # - name: Archive
             #   url: archive/
             # - name: Blog
