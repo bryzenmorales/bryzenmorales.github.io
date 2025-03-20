@@ -81,7 +81,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: "/morales-cv.pdf"
+          url: morales-cv.pdf
         - name: Email
           url: mailto:bryzen062904@g.ucla.edu
           # url: location/
