@@ -59,8 +59,7 @@ params:
     profileMode:
           enabled: true
           title: Bryzen Enzo Morales
-          subtitle: "I am currently a Public Affairs and Economics undergraduate student at the University of California, Los Angeles (UCLA). 
-          I am an aspiring applied, quantitative social scientist, interested in problems related to poverty and social inequality." 
+          subtitle: "I am currently a Public Affairs and Economics undergraduate student at the University of California, Los Angeles (UCLA). \nI am an aspiring applied, quantitative social scientist, interested in problems related to poverty and social inequality." 
           #imageUrl: 
           #imageWidth: 160
           #imageHeight: 160
