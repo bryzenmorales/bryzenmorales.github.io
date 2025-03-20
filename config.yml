@@ -79,8 +79,8 @@ params:
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        #- name: cv
-        #  url: cv-morales.pdf
+        - name: cv
+          url: morales-cv.pdf
         - name: Email
           url: mailto:bryzen062904@g.ucla.edu
           # url: location/
