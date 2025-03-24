@@ -32,7 +32,7 @@ menu:
           
 
 params:
-    description: "I am currently a Public Affairs and Economics undergraduate student at the University of California, Los Angeles (UCLA). I am an aspiring applied, quantitative social scientist, interested in problems related to poverty and social inequality."
+    description: "I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA)."
     author: Bryzen Enzo Morales
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -59,7 +59,8 @@ params:
     profileMode:
           enabled: true
           title: Bryzen Enzo Morales
-          subtitle: "I am currently a Public Affairs and Economics undergraduate student at the University of California, Los Angeles (UCLA). \nI am an aspiring applied, quantitative social scientist, interested in problems related to poverty and social inequality." 
+          subtitle: "I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
+          <br>  <br> I am an aspiring applied, quantitative social scientist, interested in problems related to poverty, inequality, and development."
           #imageUrl: 
           #imageWidth: 160
           #imageHeight: 160
@@ -88,8 +89,8 @@ params:
         #   url: officehours/
         #- name: Google Scholar
         #  url: https://scholar.google.com/citations?user=K5aOUegAAAAJ&hl
-        #- name: GitHub
-        #  url: https://github.com/bryzenmorales
+        - name: GitHub
+          url: https://github.com/bryzenmorales
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: YouTube
