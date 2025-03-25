@@ -68,8 +68,8 @@ params:
           buttons:
              - name: Projects
                url: projects/
-            # - name: Publications
-            #   url: publications/
+             - name: Publications
+               url: publications/
             # - name: Briefs
             #   url: briefs/
             # - name: Others
