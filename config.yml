@@ -17,12 +17,18 @@ menu:
         - name: Home
           url: /
           weight: 1
-        - name: Projects
-          url: projects/
+        - name: Bachelor's Honors Thesis
+          url: thesis/
           weight: 2
+        - name: Bachelor's Capstone Project
+          url: capstone/
+          weight: 3
         - name: Publications
           url: publications/
-          weight: 3
+          weight: 4
+        - name: (Some) Empirical Projects
+          url: projects/
+          weight: 5
         #- name: Briefs
         #  url: briefs/
         #  weight: 4
@@ -59,8 +65,9 @@ params:
     profileMode:
           enabled: true
           title: Bryzen Enzo Morales
-          subtitle: "I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
-          <br>  <br> I am an aspiring applied, quantitative social scientist, interested in problems related to poverty, inequality, and development."
+          subtitle: "Hello! I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
+          <br>  <br> I am interested in problems related to poverty, inequality, and development---how it operates and what can public policy, planning practices, and public administration do to mitigate it---whereI utilize a wide variety of quantitative, empirical techniques on different types of data (e.g., cross-sectional, spatial, time-series, panel).
+          <br>  <br> At UCLA, I collaborated with scholars and experts in the field of urban planning, public policy, and social welfare. I have done work on describing and quantifying the life conditions of Asian Americans, and other communities of color in the United States."
           #imageUrl: 
           #imageWidth: 160
           #imageHeight: 160
@@ -68,8 +75,14 @@ params:
           buttons:
              - name: Projects
                url: projects/
+             - name: Bachelor's Honors Thesis
+               url: thesis/
+             - name: Bachelor's Capstone Project
+               url: capstone/
              - name: Publications
                url: publications/
+             - name: (Some) Empirical Projects
+               url: empirical/
             # - name: Briefs
             #   url: briefs/
             # - name: Others
