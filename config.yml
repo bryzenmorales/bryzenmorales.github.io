@@ -22,7 +22,7 @@ menu:
           weight: 2
         - name: Publications
           url: publications/
-        #  weight: 3
+          weight: 3
         #- name: Briefs
         #  url: briefs/
         #  weight: 4
