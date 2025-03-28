@@ -69,8 +69,8 @@ params:
           <br>  <br> I am interested in problems related to poverty, inequality, and development---how it operates and what can public policy, planning practices, and public administration do to mitigate it---whereI utilize a wide variety of quantitative, empirical techniques on different types of data (e.g., cross-sectional, spatial, time-series, panel).
           <br>  <br> At UCLA, I collaborated with scholars and experts in the field of urban planning, public policy, and social welfare. I have done work on describing and quantifying the life conditions of Asian Americans, and other communities of color in the United States."
           imageUrl: "bryzen-pic-1.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          #imageWidth: 160
+          #imageHeight: 160
           #imageTitle: Bryzen Enzo Morales
           buttons:
              - name: Projects
