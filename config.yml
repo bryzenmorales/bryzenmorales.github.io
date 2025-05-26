@@ -75,7 +75,7 @@ params:
              - name: Publications
                url: publications/
              - name: Empirical Projects
-               url: projects/
+               url: papers/
             # - name: Briefs
             #   url: briefs/
             # - name: Others
