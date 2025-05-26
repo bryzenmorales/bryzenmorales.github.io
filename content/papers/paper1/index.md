@@ -1,7 +1,7 @@
 ---
 title: "Spatial Data: Wildfires and Neighborhood Vulnerability" 
 cover:
-    image: "paper1.png"
+    image: "wildfires.png"
 author: ["Leo Blain", "Gina Ranieri", "Elizabeth Shin", "Bryzen Enzo Morales"]
 description: "This project utilizes Python in determining the spatial distribution of displacement vulnerability across Los Angeles." 
 summary: "This project utilizes Python in determining the spatial distribution of vulnerability to displacement across neighborhoods in Los Angeles." 
