@@ -62,11 +62,9 @@ params:
     profileMode:
           enabled: true
           title: Bryzen Enzo Morales
-          subtitle: "Hello! I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
-          <br>  <br> My personal academic and research interests lies on poverty, inequality, and equitable, inclusive economic development
-          <br>  <br> At UCLA, I have done work in the interdisciplinary fields of public policy, urban planning, and social welfare."
-          #imageWidth: 160
-          #imageHeight: 160
+          subtitle: "Hello! I am a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
+          <br>  <br> My personal academic interests lies on the mechanisms behind the intergenerational transmission of poverty and inequality, and how such mechanisms can be used in informing equitable and inclusive social policies.
+          <br>  <br> I have been trained to think from an interdisciplinary lens, where I utilize a wide variety of quantitative empirical techniques to address my main academic interests. This portfolio showcases all of my empirical, analytical work."
           #imageTitle: Bryzen Enzo Morales
           buttons:
              - name: Bachelor's Honors Thesis
