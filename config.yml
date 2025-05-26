@@ -24,7 +24,7 @@ menu:
           url: publications/
           weight: 3
         - name: Empirical Projects
-          url: projects/
+          url: papers/
           weight: 4
         #- name: Briefs
         #  url: briefs/
@@ -63,9 +63,8 @@ params:
           enabled: true
           title: Bryzen Enzo Morales
           subtitle: "Hello! I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
-          <br>  <br> My personal academic interests lies on poverty, inequality, and equitable, inclusive economic development, where I utilize a wide variety of quantitative empirical techniques. At UCLA, I have done work in the interdisciplinary fields of public policy, urban planning, and social welfare.
-          <br>  <br> This portfolio showcases all of the quantitative skills I acquired during my undergraduate career at UCLA. All errors are of my own."
-          #imageUrl: "bryzen-pic-1.jpg"
+          <br>  <br> My personal academic and research interests lies on poverty, inequality, and equitable, inclusive economic development
+          <br>  <br> At UCLA, I have done work in the interdisciplinary fields of public policy, urban planning, and social welfare."
           #imageWidth: 160
           #imageHeight: 160
           #imageTitle: Bryzen Enzo Morales
