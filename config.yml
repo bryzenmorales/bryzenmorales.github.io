@@ -66,23 +66,19 @@ params:
           enabled: true
           title: Bryzen Enzo Morales
           subtitle: "Hello! I am currently a **Public Affairs** and **Economics** undergraduate student at the University of California, Los Angeles (UCLA). 
-          <br>  <br> I am interested in problems related to poverty, inequality, and development.
-          <br>  <br> At UCLA, I collaborated with scholars and experts in the field of urban planning, public policy, and social welfare. I have done work on describing and quantifying the life conditions of Asian Americans, and other communities of color in the United States."
+          <br>  <br> My personal academic interests lies on poverty, inequality, and equitable, inclusive economic development, where I utilize a wide variety of quantitative empirical techniques. At UCLA, I have done work in the interdisciplinary fields of public policy, urban planning, and social welfare.
+          <br>  <br> This portfolio showcases all of the quantitative skills I acquired during my undergraduate career at UCLA. All errors are of my own."
           #imageUrl: "bryzen-pic-1.jpg"
           #imageWidth: 160
           #imageHeight: 160
           #imageTitle: Bryzen Enzo Morales
           buttons:
-             - name: Projects
-               url: projects/
              - name: Bachelor's Honors Thesis
                url: thesis/
-             - name: Bachelor's Capstone Project
-               url: capstone/
              - name: Publications
                url: publications/
-             - name: (Some) Empirical Projects
-               url: empirical/
+             - name: Empirical Projects
+               url: projects/
             # - name: Briefs
             #   url: briefs/
             # - name: Others
