@@ -10,6 +10,8 @@ summary: "This project utilizes Python in determining the spatial distribution o
 
 ---
 
+![](wildfires.jpg)
+
 ### Project Description 
 
 The recent Los Angeles wildfires have displaced thousands of people, creating a sudden surge in demand for long-term rental housing–just as supply has drastically shrunk. According to Strategic Actions for a Just Economy, many landlords have taken advantage of this crisis by illegally inflating rental prices across the city. While some displaced residents—such as wealthy homeowners from Pacific Palisades—may be able to absorb these costs, many others cannot.
