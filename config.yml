@@ -74,7 +74,7 @@ params:
           #imageTitle: Bryzen Enzo Morales
           buttons:
              - name: Bachelor's Honors Thesis
-               url: /thesis.pdf/
+               url: thesis.pdf/
              - name: Publications
                url: publications/
              - name: Empirical Projects
