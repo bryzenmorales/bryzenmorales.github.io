@@ -11,6 +11,7 @@ summary: "This project utilizes Python in determining the spatial distribution o
 ---
 
 ![](wildfires.jpg)
+Photo Credits: Daniel Cole / Reuters
 
 ### Project Description 
 
@@ -19,8 +20,6 @@ The recent Los Angeles wildfires have displaced thousands of people, creating a 
 Rental price gouging will disproportionately harm economically and demographically vulnerable populations, further deepening inequalities across Los Angeles County. In this project, we seek to identify the communities or neighboroods who are most vulnerable to rental price gouging. This vulnerability, we think, is a contributor to both housing burden and displacement across the Los Angeles County.
 
 This page demonstrates my quarter-long data and codes that wrangles, visualizes, and models spatial data in Python (from the course, UP 221: GIS and Spatial Data Science). It features my individual contributions to a group project with three other urban planning graduate students.
-
-Photo Credits: Daniel Cole / Reuters
 
 ---
 
