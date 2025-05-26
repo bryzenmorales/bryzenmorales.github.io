@@ -20,15 +20,12 @@ menu:
         - name: Bachelor's Honors Thesis
           url: thesis/
           weight: 2
-        - name: Bachelor's Capstone Project
-          url: capstone/
-          weight: 3
         - name: Publications
           url: publications/
-          weight: 4
-        - name: (Some) Empirical Projects
+          weight: 3
+        - name: Empirical Projects
           url: projects/
-          weight: 5
+          weight: 4
         #- name: Briefs
         #  url: briefs/
         #  weight: 4
@@ -74,7 +71,7 @@ params:
           #imageTitle: Bryzen Enzo Morales
           buttons:
              - name: Bachelor's Honors Thesis
-               url: thesis.pdf/
+               url: thesis.pdf
              - name: Publications
                url: publications/
              - name: Empirical Projects
